@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "midi2cvProc-rescue")(type "KiCad")(uri "C:/Users/User/Desktop/Electronics/KiCAD/MIDItoCV/MIDI2CVProc/midi2cvProc/midi2cvProc-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "MIDI2CVIO-rescue")(type "KiCad")(uri "C:/Users/User/Desktop/Electronics/KiCAD/MIDItoCV/MIDI2CVIO/MIDI2CVIO/MIDI2CVIO-rescue.kicad_sym")(options "")(descr ""))
+)
